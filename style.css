@@ -1,0 +1,41 @@
+body{
+
+  background-color: tan;
+  display: flex;
+  margin: 10px;
+  
+ 
+}
+
+header{
+  width: 10%;
+  align-items: center;
+}
+
+main {
+
+  width: 90%;
+
+}
+
+body * {
+
+margin: 10px;
+
+
+}
+
+table{
+
+  text-align: left;
+  padding: 5px 10px;
+  border-bottom: 1px solid gray;
+  border: 1px solid gray;
+  border collapse: ;
+  border-spacing: 4px;
+  }
+  tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+  }
